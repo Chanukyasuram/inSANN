@@ -83,5 +83,5 @@ Ensure the following images are in the same directory as your Python script:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sugar-rush-game.git
-cd sugar-rush-game
+git clone https://github.com/NavyaPriya2/inSANN.git
+cd inSANN
